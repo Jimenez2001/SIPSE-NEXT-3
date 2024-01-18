@@ -15,7 +15,11 @@ export default function Home() {
 
   return (
     <div>
+<<<<<<< HEAD
       <div
+=======
+     {/*  <div
+>>>>>>> 3d6d9146906b4d2827fcb329d4ab467c3d548e47
         className="d-flex align-items-center justify-content-center"
         style={{ height: "100vh" }}
       >
@@ -74,7 +78,12 @@ export default function Home() {
             </form>
           </div>
         </div>
+<<<<<<< HEAD
       </div>
+=======
+      </div> */}
+      INDEX
+>>>>>>> 3d6d9146906b4d2827fcb329d4ab467c3d548e47
     </div>
   );
 }
